@@ -1,2 +1,2 @@
 This commit has second-file
-This is my thrid commit
+This is my thrid commit modified and commited back
